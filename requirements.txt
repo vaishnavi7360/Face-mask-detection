@@ -1,0 +1,5 @@
+This application needs the following modules
+
+1. Pillow - image manipulation ( pip install pillow)
+2. OpenCV - for image and video processing ( pip install opencv-python)
+3. imgutils - for image manipulation (pip install imgutils)
